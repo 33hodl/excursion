@@ -1,0 +1,39 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.header {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.download {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.personal {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.remembers {
+    font-size: 21px;
+    color: gray;
+}
+
+.iphone {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.footer {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
