@@ -3,7 +3,6 @@ html {
     text-align: center;
     background-color: black;
     color: white;
-    align-items: center;
 }
 
 .header {
@@ -39,5 +38,5 @@ html {
 }
 
 .phone {
-    display: block;
+    margin-top: 20px;
 }
